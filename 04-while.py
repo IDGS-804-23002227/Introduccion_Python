@@ -1,0 +1,10 @@
+x = 0
+tem =""
+while x<10:
+    tem+=str(x)+'+'
+    x+=2
+   
+print(tem) 
+print("La suma de los numeros pares menores a 10 es:")
+    
+    
