@@ -6,3 +6,12 @@ def funcion2():
 
 def funcion3():
     ("Esta es la funcion 3")
+    
+    
+def main():
+    funcion1()
+    funcion3()
+    
+if __name__ == "__main__":
+    main()
+    
